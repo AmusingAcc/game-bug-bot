@@ -1,5 +1,11 @@
 # Game-Bug Bot's List of Commands
 
+## Important
+
+| Name | Permission | Description | Example |
+| --- | --- | --- | --- |
+| `;setup` | Administrator | Creates two new channels (**#user-reports** and **#bug-reports**) and a category (**reports**) where both of the channels will go to | `;setup` |
+
 ## Reports
 
 | Name | Permission | Description | Example |
@@ -13,7 +19,6 @@
 
 | Name | Permission | Description | Example |
 | --- | --- | --- | --- |
-| `;setup` | Administrator | Creates the channels **#user-reports** and **#bug-reports** and sends an embed with instructions in both channels | `;setup` |
 | `;resources` | Everyone | Sends a DM to the user that used the command containing useful resources for attaching proof to a report | `;resources` |
 | `;help` | Everyone | Displays all the necessary information and important links | `;help` |
 | `;version` | Everyone | Displays the bot version to let you see if its up-to-date | `;version` |
