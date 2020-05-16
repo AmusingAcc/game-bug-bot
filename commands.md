@@ -14,7 +14,7 @@
 | `;breport [type of bug] <description> <proof>` | Report a bug that you have in a game so that the developers can fix it [only in **#bug-reports**] | `;breport Placement the bench closest to spawn isn't in-line with the rest of the benches https://imgur.com/` |
 | `;urhelp` | Manage Messages | Creates an embed with the necessary information on how to report a user |
 | `;brhelp` | Manage Messages | Creates an embed with the necessary information on how to report a bug |
-| `;deny` | Manage Messages [only in **#user-reports** and **#bug-reports**] | Deletes the last report |
+| `;deny` | Manage Messages | Deletes the last report [only in **#user-reports** and **#bug-reports**] |
 
 ## Extra
 
