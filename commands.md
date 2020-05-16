@@ -1,4 +1,4 @@
-# Game-Bug Bot's List of Commands
+# Game-Bug Bot's Commands
 
 ## Important
 
