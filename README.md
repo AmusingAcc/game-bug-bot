@@ -10,7 +10,6 @@ Invite the bot [here](https://discord.com/oauth2/authorize?client_id=71040716820
 - Custom Prefix
 - Different way of reporting users/bugs
 - Custom setup
-- Game-Bug Bot Full Release [Stable v1.0.5]
 
 # FAQ
 
