@@ -4,7 +4,7 @@
 
 | Name | Permission | Description |
 | --- | --- | --- |
-| `;setup` | Administrator | Creates two new channels (**#user-reports** and **#bug-reports**) and a category (**reports**) where both of the channels will go to |
+| `;setup` | Administrator | Creates two new channels (**#user-reports** and **#bug-reports**) and a category (**reports**) where both of the channels will go to, and sends instruction embeds into both channels |
 
 ## Reports
 
