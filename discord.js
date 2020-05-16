@@ -1,3 +1,3 @@
-// npm install discord.js
+// npm install discord.js --save
 
 const Discord = require('discord.js');
