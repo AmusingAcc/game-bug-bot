@@ -23,6 +23,6 @@ If you get an error 102, it means that the command that you are trying to use, r
 
 If you get an error 203, it means that the command you are trying to use, needs to be used in a different text channel. You can see which channel(s) you can use the command in, in the error's description.
 
-### Why is ;resource not doing anything?
+### Why is ;resources/;feedback not doing anything?
 
 If the bot doesn't do anything other than delete the command after you say ;resources, means that the bot is not able to DM you, check if your DMs are off.
