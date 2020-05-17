@@ -27,3 +27,4 @@
 | `;resources` | Everyone | Sends a DM to the user that used the command containing useful resources for attaching proof to a report |
 | `;feedback` | Manage Messages | Give the creator feedback on the bot, it is restricted to users with the Manage Messages permissions due to unecessary, spam feedback |
 | `;support` | Everyone | Sends you a DM of methods to DM the creator when you need support |
+| `;invite` or `;inv` | Everyone | Invite the bot to your server |
