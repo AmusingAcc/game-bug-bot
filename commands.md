@@ -11,8 +11,8 @@
 
 | Name | Description/Permissions | Example/Description |
 | --- | --- | --- |
-| `;ureport [username] <description> <proof>` | Report rule-breakers in a game [only in **#user-reports**] | `;ureport Player1 Using flying exploits in the game https://imgur.com/` |
-| `;breport [type of bug] <description> <proof>` | Report a bug that you have in a game so that the developers can fix it [only in **#bug-reports**] | `;breport Placement the bench closest to spawn isn't in-line with the rest of the benches https://imgur.com/` |
+| `;reportuser username \| description \| proof` | Report rule-breakers in a game [only in **#user-reports**] | `;reportuser Player1 \| Using flying exploits in the game \| https://imgur.com/` |
+| `;reportbug type of bug \| description \| device information \| proof` | Report a bug that you have in a game so that the developers can fix it [only in **#bug-reports**] | `;reportbug Placement \| the bench closest to spawn isn't in-line with the rest of the benches \| iPhone 7; iOS 13.4.1 \| https://imgur.com/` |
 | `;slowmode [time]s/m/h` | Sets the slowmode to the time you type in (s = seconds, m = minutes, h = hours) [6 hours max, requires the Administrator permission] | `;slowmode 5m` |
 | `;clr [amount]` or `;clear [amount]` | Clear messages in the chat, cannot be used in **#user-reports** and **#bugreports** [Requires the Manage Messages permission] | `;clr 50` or `;clear 50` |
 | `;deny messageID \| Reason for Denial` | Deletes the specified report [requires the Manage Messages permission, only to be used in **#user-reports** and **#bug-reports**] | `;deny 712746548731314218 | Not a Bug, please request the feature` |
